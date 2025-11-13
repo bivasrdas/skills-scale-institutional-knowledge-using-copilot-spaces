@@ -16,8 +16,12 @@ Applies to all cross-functional projects that deliver product features, services
 ## Core Roles
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
+- Product Owner: owns product vision, collaborates on backlog prioritization, liaison with business stakeholders.
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
+- Quality Advocate: champions quality practices across all project phases, coordinates with development and QA.
+- Communications Lead: develops communication plans, ensures consistent messaging to all audiences.
+- Change Manager: manages change requests, reviews impact, ensures team alignment.
 - Stakeholders: provide inputs and approvals.
 
 ## Key Artifacts
